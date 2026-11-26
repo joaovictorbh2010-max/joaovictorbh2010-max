@@ -28,7 +28,7 @@
 ### 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,linux,kali,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,git,github,linux,kali,vscode" />
 </p>
 
 ---
