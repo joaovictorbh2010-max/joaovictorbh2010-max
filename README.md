@@ -1,22 +1,22 @@
-<h1 align="center">Olá 👋, eu sou João Victor</h1>
+<h1 align="center">Olá , eu sou João Victor</h1>
 <h3 align="center">Desenvolvedor Python • Segurança da Informação • Automação com IA</h3>
 
 <p align="center">
-  🔐 Criando minhas próprias ferramentas de segurança &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🤖 Agentes de IA
+   Criando minhas próprias ferramentas de segurança &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🤖 Agentes de IA
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+###  Sobre mim
 
 - 🔐 Estudando **cibersegurança** e desenvolvendo ferramentas próprias.
 - 🐍 Programo em **Python**: criptografia, automação e agentes de IA.
-- 🤖 Construindo um assistente pessoal estilo "Jarvis".
-- 🌎 Objetivo: trabalhar com tecnologia e segurança no exterior.
+- 🤖 Construindo  assistentes pessoais.
+- 🌎 Objetivo: trabalhar com tecnologia e cibersegurança no exterior.
 
 ---
 
-### 🌐 Me encontre
+###  Me encontre
 
 <p align="left">
   <a href="mailto:joaovictorbh2010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
